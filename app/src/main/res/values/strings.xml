@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat_God</string>
+    <string name="button">Button</string>
+    <string name="title_activity_login">login</string>
+    <string name="login">登入</string>
+
+</resources>
